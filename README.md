@@ -1,4 +1,4 @@
-# HiltiV1
+# Hilti
 
 ## Table of Contents
 - [Introduction](#introduction)
