@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HiltiV1</string>
+    <string name="accelerometer_statistics">Accelerometer Statistics</string>
+    <string name="y_pos">Y-Pos :</string>
+    <string name="z_pos">Z-Pos :</string>
+    <string name="x_pos">X-Pos :</string>
+    <string name="location_statistics">Location Statistics</string>
+    <string name="longitude">Longitude :</string>
+    <string name="latitude">Latitude :</string>
+</resources>
